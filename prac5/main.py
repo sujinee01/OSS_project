@@ -1,2 +1,1 @@
-print("Hello Sujin Lee!")
-print("Hello World!")
+print("hello world - prac2")
